@@ -1,0 +1,134 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+#titulo_sem_vaga {
+    padding: 50px;
+    background-color: gray;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#sem_vaga {
+    display: flex;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    height: 94vh;
+    justify-content: center;
+}
+.menu {
+    width: 99.8%;
+    height: 40px;
+    background-color: rgb(95, 95, 95);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid white;
+}
+.vagas {
+}
+.menu_vagas {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important ;
+}
+
+#user {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin-right: 10px;
+    line-height: 40px;
+}
+#user:hover {
+    color: rgb(255, 255, 255);
+}
+#a {
+    text-decoration-line: none;
+}
+#logout {
+    text-decoration-line: none;
+    line-height: 40px;
+    color: white;
+}
+#logout:hover {
+    color: rgb(0, 0, 0);
+}
+#criarvaga {
+    text-decoration-line: none;
+
+    position: relative;
+    left: 70%;
+}
+#salario {
+    margin-right: 5px;
+}
+.vaga {
+    width: 90%;
+    border-radius: 12px;
+    background-color: rgb(95, 95, 95);
+    color: rgb(0, 0, 0);
+    margin: 25px;
+    margin-left: 48px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 9px;
+    border: 1px solid white;
+}
+.titulo {
+    display: flex;
+}
+.email {
+    margin-top: 3px;
+    margin-left: auto;
+}
+.btn_s {
+    display: flex;
+}
+#btn {
+    margin-left: auto;
+    text-decoration-line: none;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+    position: relative;
+    bottom: 10px;
+}
+#btn:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 239, 239);
+}
+#email_a:hover {
+    color: rgb(0, 0, 0);
+}
+#email_a {
+    text-decoration-line: none;
+    color: white;
+}
+#btn_menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+    /* widows: 100%; */
+    margin-top: 15px;
+}
+#btn_menu > a {
+    margin-right: 10px;
+}
+.perfil {
+    display: flex;
+    justify-content: flex-end;
+    line-height: 40px;
+    margin-right: 20px;
+}
+#voltar {
+    text-decoration-line: none;
+    color: white;
+    margin-right: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid white;
+    cursor: pointer;
+    background-color: gray;
+}

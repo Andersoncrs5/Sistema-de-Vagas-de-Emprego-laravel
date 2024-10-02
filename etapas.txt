@@ -1,0 +1,23 @@
+1
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9 
+10 validacao
+11 
+12 
+13 sistema de delete para usuario com vagas e comentarios
+14 
+15 Tabelas mostrando o numeros de pessoas que se candidataram
+16 Sistema de logs
+17 
+18 delete comentario junto com usuarios
+19 
+20 
+21 
+22 
+23 
